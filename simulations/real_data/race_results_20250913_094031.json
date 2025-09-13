@@ -1,0 +1,4065 @@
+{
+  "final_classification": [
+    {
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "final_position": 1,
+      "qualifying_position": 8,
+      "status": "Running",
+      "points": 25,
+      "laps_completed": 20,
+      "gap_to_leader": null
+    },
+    {
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "final_position": 2,
+      "qualifying_position": 10,
+      "status": "Running",
+      "points": 20,
+      "laps_completed": 20,
+      "gap_to_leader": -1.2317162850783916
+    },
+    {
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "final_position": 3,
+      "qualifying_position": 3,
+      "status": "Running",
+      "points": 16,
+      "laps_completed": 20,
+      "gap_to_leader": 0.6517462216120293
+    },
+    {
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "final_position": 4,
+      "qualifying_position": 12,
+      "status": "Running",
+      "points": 13,
+      "laps_completed": 20,
+      "gap_to_leader": 5.107753002647314
+    },
+    {
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "final_position": 5,
+      "qualifying_position": 14,
+      "status": "Running",
+      "points": 11,
+      "laps_completed": 20,
+      "gap_to_leader": -1.1142693740316645
+    },
+    {
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "final_position": 6,
+      "qualifying_position": 7,
+      "status": "Running",
+      "points": 10,
+      "laps_completed": 20,
+      "gap_to_leader": 2.142797877597559
+    },
+    {
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "final_position": 7,
+      "qualifying_position": 6,
+      "status": "Running",
+      "points": 9,
+      "laps_completed": 20,
+      "gap_to_leader": 0.21433879245091703
+    },
+    {
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "final_position": 8,
+      "qualifying_position": 21,
+      "status": "Running",
+      "points": 8,
+      "laps_completed": 20,
+      "gap_to_leader": 3.461177034445427
+    },
+    {
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "final_position": 9,
+      "qualifying_position": 9,
+      "status": "Running",
+      "points": 7,
+      "laps_completed": 20,
+      "gap_to_leader": -0.11981395348584556
+    },
+    {
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "final_position": 10,
+      "qualifying_position": 1,
+      "status": "Running",
+      "points": 6,
+      "laps_completed": 20,
+      "gap_to_leader": -2.729748514875837
+    },
+    {
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "final_position": 11,
+      "qualifying_position": 4,
+      "status": "Running",
+      "points": 5,
+      "laps_completed": 20,
+      "gap_to_leader": 0.25511298524202175
+    },
+    {
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "final_position": 12,
+      "qualifying_position": 18,
+      "status": "Running",
+      "points": 4,
+      "laps_completed": 20,
+      "gap_to_leader": 2.4118617437979992
+    },
+    {
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "final_position": 13,
+      "qualifying_position": 20,
+      "status": "Running",
+      "points": 3,
+      "laps_completed": 20,
+      "gap_to_leader": -0.9036624971070069
+    },
+    {
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "final_position": 14,
+      "qualifying_position": 11,
+      "status": "Running",
+      "points": 2,
+      "laps_completed": 20,
+      "gap_to_leader": 0.9778646008048781
+    },
+    {
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "final_position": 15,
+      "qualifying_position": 2,
+      "status": "Running",
+      "points": 1,
+      "laps_completed": 20,
+      "gap_to_leader": 0.012167579658807881
+    },
+    {
+      "name": "Joan Mir",
+      "team": "Repsol Honda Team",
+      "final_position": 15,
+      "qualifying_position": 13,
+      "status": "Running",
+      "points": 1,
+      "laps_completed": 4,
+      "gap_to_leader": -3.02954744633945
+    },
+    {
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "final_position": 16,
+      "qualifying_position": 5,
+      "status": "Running",
+      "points": 0,
+      "laps_completed": 20,
+      "gap_to_leader": 0.5200827352127817
+    },
+    {
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "final_position": 17,
+      "qualifying_position": 22,
+      "status": "Running",
+      "points": 0,
+      "laps_completed": 20,
+      "gap_to_leader": -0.8380878957395907
+    },
+    {
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "final_position": 18,
+      "qualifying_position": 16,
+      "status": "Running",
+      "points": 0,
+      "laps_completed": 20,
+      "gap_to_leader": 0.4448161568766409
+    },
+    {
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "final_position": 19,
+      "qualifying_position": 17,
+      "status": "Running",
+      "points": 0,
+      "laps_completed": 20,
+      "gap_to_leader": 1.208475259134957
+    },
+    {
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "final_position": 20,
+      "qualifying_position": 15,
+      "status": "Running",
+      "points": 0,
+      "laps_completed": 20,
+      "gap_to_leader": 2.762338192186917
+    },
+    {
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "final_position": 21,
+      "qualifying_position": 19,
+      "status": "Running",
+      "points": 0,
+      "laps_completed": 20,
+      "gap_to_leader": 0.044569223587132
+    }
+  ],
+  "best_lap": {
+    "name": "Jorge Martin",
+    "team": "Prima Pramac Racing",
+    "lap": 19,
+    "time": 68.30190105267306
+  },
+  "statistics": {
+    "avg_lap_time": 75.80716351180988,
+    "std_lap_time": 3.265377110839416,
+    "dnf_count": 0,
+    "dnf_rate": 0.0,
+    "finishers_count": 22,
+    "avg_gap": 0.48801216374274264
+  },
+  "race_data": [
+    {
+      "lap": 1,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 1.0,
+      "lap_time": 83.31314403996221,
+      "cumulative_time": 83.31314403996221,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 2.0,
+      "lap_time": 78.63857625260835,
+      "cumulative_time": 78.63857625260835,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 3.0,
+      "lap_time": 83.81927391774123,
+      "cumulative_time": 83.81927391774123,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 4.0,
+      "lap_time": 83.35223487861522,
+      "cumulative_time": 83.35223487861522,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 5.0,
+      "lap_time": 82.18281511212393,
+      "cumulative_time": 82.18281511212393,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 6.0,
+      "lap_time": 79.01928215451089,
+      "cumulative_time": 79.01928215451089,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 7.0,
+      "lap_time": 81.24154402288775,
+      "cumulative_time": 81.24154402288775,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 8.0,
+      "lap_time": 76.24541853993594,
+      "cumulative_time": 76.24541853993594,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 9.0,
+      "lap_time": 77.12179832741838,
+      "cumulative_time": 77.12179832741838,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 10.0,
+      "lap_time": 74.20147474080227,
+      "cumulative_time": 74.20147474080227,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 11.0,
+      "lap_time": 77.83166266713484,
+      "cumulative_time": 77.83166266713484,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 12.0,
+      "lap_time": 77.41324814384662,
+      "cumulative_time": 77.41324814384662,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Joan Mir",
+      "team": "Repsol Honda Team",
+      "position": 13.0,
+      "lap_time": 77.25082417974757,
+      "cumulative_time": 77.25082417974757,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 14.0,
+      "lap_time": 74.11899280120242,
+      "cumulative_time": 74.11899280120242,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 15.0,
+      "lap_time": 79.03370569966546,
+      "cumulative_time": 79.03370569966546,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 16.0,
+      "lap_time": 77.8543270646996,
+      "cumulative_time": 77.8543270646996,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 17.0,
+      "lap_time": 75.89904587481189,
+      "cumulative_time": 75.89904587481189,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 18.0,
+      "lap_time": 77.3011467198894,
+      "cumulative_time": 77.3011467198894,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 19.0,
+      "lap_time": 77.99920045016424,
+      "cumulative_time": 77.99920045016424,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 20.0,
+      "lap_time": 77.21329950184742,
+      "cumulative_time": 77.21329950184742,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 21.0,
+      "lap_time": 72.54365018704614,
+      "cumulative_time": 72.54365018704614,
+      "status": "Running"
+    },
+    {
+      "lap": 1,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 22.0,
+      "lap_time": 72.10488306991175,
+      "cumulative_time": 72.10488306991175,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 20.0,
+      "lap_time": 74.68565839635313,
+      "cumulative_time": 157.99880243631534,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 15.0,
+      "lap_time": 73.295972726304,
+      "cumulative_time": 151.93454897891235,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 22.0,
+      "lap_time": 71.35872727964008,
+      "cumulative_time": 155.17800119738132,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 21.0,
+      "lap_time": 71.38193573395795,
+      "cumulative_time": 154.73417061257317,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 19.0,
+      "lap_time": 72.17107474474835,
+      "cumulative_time": 154.35388985687229,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 16.0,
+      "lap_time": 73.09794449213291,
+      "cumulative_time": 152.11722664664381,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 18.0,
+      "lap_time": 75.98445894844497,
+      "cumulative_time": 157.22600297133272,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 6.0,
+      "lap_time": 79.40802766318689,
+      "cumulative_time": 155.65344620312283,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 7.0,
+      "lap_time": 77.12214041541276,
+      "cumulative_time": 154.24393874283112,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 4.0,
+      "lap_time": 77.32197182709106,
+      "cumulative_time": 151.52344656789333,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 12.0,
+      "lap_time": 77.67842264004497,
+      "cumulative_time": 155.5100853071798,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 11.0,
+      "lap_time": 78.40924125503179,
+      "cumulative_time": 155.82248939887842,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Joan Mir",
+      "team": "Repsol Honda Team",
+      "position": 9.0,
+      "lap_time": 79.52073839667638,
+      "cumulative_time": 156.77156257642395,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 3.0,
+      "lap_time": 80.26641707974888,
+      "cumulative_time": 154.3854098809513,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 17.0,
+      "lap_time": 76.75323714503536,
+      "cumulative_time": 155.78694284470083,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 13.0,
+      "lap_time": 78.45225499664606,
+      "cumulative_time": 156.30658206134567,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 5.0,
+      "lap_time": 81.34770226435106,
+      "cumulative_time": 157.24674813916295,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 10.0,
+      "lap_time": 76.80204037900212,
+      "cumulative_time": 154.1031870988915,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 14.0,
+      "lap_time": 75.69575723774305,
+      "cumulative_time": 153.69495768790728,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 8.0,
+      "lap_time": 76.64951156602591,
+      "cumulative_time": 153.86281106787334,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 2.0,
+      "lap_time": 79.66130358751352,
+      "cumulative_time": 152.20495377455967,
+      "status": "Running"
+    },
+    {
+      "lap": 2,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 1.0,
+      "lap_time": 84.7101760998289,
+      "cumulative_time": 156.81505916974066,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 22.0,
+      "lap_time": 71.7645110848645,
+      "cumulative_time": 229.76331352117984,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 2.0,
+      "lap_time": 82.22218132461688,
+      "cumulative_time": 234.15673030352923,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 12.0,
+      "lap_time": 76.73136354943414,
+      "cumulative_time": 231.90936474681547,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 11.0,
+      "lap_time": 80.39095683087105,
+      "cumulative_time": 235.12512744344423,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 9.0,
+      "lap_time": 75.50379375300452,
+      "cumulative_time": 229.8576836098768,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 3.0,
+      "lap_time": 83.48650413409302,
+      "cumulative_time": 235.60373078073684,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 20.0,
+      "lap_time": 74.63217765691506,
+      "cumulative_time": 231.8581806282478,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 14.0,
+      "lap_time": 80.15324497657785,
+      "cumulative_time": 235.8066911797007,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 8.0,
+      "lap_time": 75.79845459341104,
+      "cumulative_time": 230.04239333624216,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 1.0,
+      "lap_time": 78.50360380027038,
+      "cumulative_time": 230.0270503681637,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 13.0,
+      "lap_time": 79.3478983523798,
+      "cumulative_time": 234.85798365955958,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 16.0,
+      "lap_time": 75.13522856846785,
+      "cumulative_time": 230.95771796734627,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Joan Mir",
+      "team": "Repsol Honda Team",
+      "position": 18.0,
+      "lap_time": 76.22434366446096,
+      "cumulative_time": 232.9959062408849,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 10.0,
+      "lap_time": 74.79285963118858,
+      "cumulative_time": 229.17826951213988,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 15.0,
+      "lap_time": 75.31943878062741,
+      "cumulative_time": 231.10638162532825,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 17.0,
+      "lap_time": 74.25174674728194,
+      "cumulative_time": 230.5583288086276,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 21.0,
+      "lap_time": 74.80787114223361,
+      "cumulative_time": 232.05461928139655,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 7.0,
+      "lap_time": 77.48882771931028,
+      "cumulative_time": 231.5920148182018,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 5.0,
+      "lap_time": 81.66429851073937,
+      "cumulative_time": 235.35925619864665,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 6.0,
+      "lap_time": 77.54838284861424,
+      "cumulative_time": 231.41119391648758,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 4.0,
+      "lap_time": 82.91545367597895,
+      "cumulative_time": 235.1204074505386,
+      "status": "Running"
+    },
+    {
+      "lap": 3,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 19.0,
+      "lap_time": 73.71641197582534,
+      "cumulative_time": 230.531471145566,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 2.0,
+      "lap_time": 78.0407906847504,
+      "cumulative_time": 307.80410420593023,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 16.0,
+      "lap_time": 76.76666640281262,
+      "cumulative_time": 310.92339670634186,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 13.0,
+      "lap_time": 76.8799219461422,
+      "cumulative_time": 308.78928669295766,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 19.0,
+      "lap_time": 76.246647642522,
+      "cumulative_time": 311.37177508596625,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 3.0,
+      "lap_time": 80.91716875215798,
+      "cumulative_time": 310.7748523620348,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 21.0,
+      "lap_time": 73.7107259636219,
+      "cumulative_time": 309.3144567443587,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 12.0,
+      "lap_time": 76.31697746086351,
+      "cumulative_time": 308.1751580891113,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 22.0,
+      "lap_time": 69.61476614370173,
+      "cumulative_time": 305.4214573234024,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 5.0,
+      "lap_time": 78.16559379921577,
+      "cumulative_time": 308.2079871354579,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 4.0,
+      "lap_time": 76.99806018213816,
+      "cumulative_time": 307.02511055030186,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 17.0,
+      "lap_time": 74.28396257860895,
+      "cumulative_time": 309.14194623816854,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 8.0,
+      "lap_time": 81.98014550110781,
+      "cumulative_time": 312.9378634684541,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Joan Mir",
+      "team": "Repsol Honda Team",
+      "position": 15.0,
+      "lap_time": 76.12359939020176,
+      "cumulative_time": 309.11950563108667,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 1.0,
+      "lap_time": 82.97078356528623,
+      "cumulative_time": 312.1490530774261,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 9.0,
+      "lap_time": 76.74238994588954,
+      "cumulative_time": 307.8487715712178,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 7.0,
+      "lap_time": 80.2342142996944,
+      "cumulative_time": 310.792543108322,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 14.0,
+      "lap_time": 74.62735856666146,
+      "cumulative_time": 306.681977848058,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 11.0,
+      "lap_time": 80.22245767426135,
+      "cumulative_time": 311.81447249246315,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 20.0,
+      "lap_time": 77.40431967813218,
+      "cumulative_time": 312.7635758767788,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 10.0,
+      "lap_time": 78.14735329359024,
+      "cumulative_time": 309.5585472100778,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 18.0,
+      "lap_time": 76.0117380331306,
+      "cumulative_time": 311.1321454836692,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 6.0,
+      "lap_time": 79.61902718483316,
+      "cumulative_time": 310.15049833039916,
+      "status": "Running"
+    },
+    {
+      "lap": 4,
+      "name": "Joan Mir",
+      "team": "Repsol Honda Team",
+      "position": NaN,
+      "lap_time": NaN,
+      "cumulative_time": 309.11950563108667,
+      "status": "DNF - Problème moteur"
+    },
+    {
+      "lap": 5,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 4.0,
+      "lap_time": 78.66925602451214,
+      "cumulative_time": 386.4733602304424,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 16.0,
+      "lap_time": 75.9867033470581,
+      "cumulative_time": 386.91010005339996,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 8.0,
+      "lap_time": 76.48236064428569,
+      "cumulative_time": 385.27164733724334,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 18.0,
+      "lap_time": 74.73493362416416,
+      "cumulative_time": 386.1067087101304,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 14.0,
+      "lap_time": 73.59493793667855,
+      "cumulative_time": 384.3697902987133,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 11.0,
+      "lap_time": 74.50265849051365,
+      "cumulative_time": 383.8171152348724,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 6.0,
+      "lap_time": 76.40698770340656,
+      "cumulative_time": 384.58214579251785,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 1.0,
+      "lap_time": 77.70675594339842,
+      "cumulative_time": 383.12821326680086,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 7.0,
+      "lap_time": 77.41290660904743,
+      "cumulative_time": 385.62089374450534,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 3.0,
+      "lap_time": 76.76346740097159,
+      "cumulative_time": 383.78857795127345,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 10.0,
+      "lap_time": 80.0010114156016,
+      "cumulative_time": 389.14295765377017,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 22.0,
+      "lap_time": 73.08825876243476,
+      "cumulative_time": 386.02612223088886,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 20.0,
+      "lap_time": 72.95383238923593,
+      "cumulative_time": 385.10288546666203,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 5.0,
+      "lap_time": 81.98465726063358,
+      "cumulative_time": 389.8334288318514,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 15.0,
+      "lap_time": 76.75187518383235,
+      "cumulative_time": 387.5444182921543,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 2.0,
+      "lap_time": 83.43350681620292,
+      "cumulative_time": 390.1154846642609,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 19.0,
+      "lap_time": 71.72306949067669,
+      "cumulative_time": 383.5375419831398,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 21.0,
+      "lap_time": 73.83329959522965,
+      "cumulative_time": 386.5968754720085,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 12.0,
+      "lap_time": 75.20434369649848,
+      "cumulative_time": 384.7628909065763,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 17.0,
+      "lap_time": 74.81787431650818,
+      "cumulative_time": 385.9500198001774,
+      "status": "Running"
+    },
+    {
+      "lap": 5,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 13.0,
+      "lap_time": 75.23509643844233,
+      "cumulative_time": 385.3855947688415,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 15.0,
+      "lap_time": 73.79894789844832,
+      "cumulative_time": 460.2723081288907,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 17.0,
+      "lap_time": 71.71081449520587,
+      "cumulative_time": 458.6209145486058,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 9.0,
+      "lap_time": 79.8233988361261,
+      "cumulative_time": 465.09504617336944,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 14.0,
+      "lap_time": 79.4042104695006,
+      "cumulative_time": 465.510919179631,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 5.0,
+      "lap_time": 79.70952710836116,
+      "cumulative_time": 464.0793174070745,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 4.0,
+      "lap_time": 78.68383872438882,
+      "cumulative_time": 462.5009539592612,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 6.0,
+      "lap_time": 82.25941224837375,
+      "cumulative_time": 466.8415580408916,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 1.0,
+      "lap_time": 80.42056330019216,
+      "cumulative_time": 463.548776566993,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 11.0,
+      "lap_time": 76.18456896208204,
+      "cumulative_time": 461.8054627065874,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 3.0,
+      "lap_time": 81.00025620336001,
+      "cumulative_time": 464.7888341546335,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 19.0,
+      "lap_time": 76.05380472027274,
+      "cumulative_time": 465.1967623740429,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 13.0,
+      "lap_time": 73.91317382606131,
+      "cumulative_time": 459.9392960569502,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 8.0,
+      "lap_time": 79.32634025693817,
+      "cumulative_time": 464.4292257236002,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 20.0,
+      "lap_time": 73.52668172834942,
+      "cumulative_time": 463.36011056020084,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 18.0,
+      "lap_time": 74.1372098281434,
+      "cumulative_time": 461.6816281202977,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 21.0,
+      "lap_time": 71.94978069341073,
+      "cumulative_time": 462.06526535767165,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 2.0,
+      "lap_time": 79.44967345020702,
+      "cumulative_time": 462.9872154333468,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 16.0,
+      "lap_time": 74.67200104628242,
+      "cumulative_time": 461.2688765182909,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 7.0,
+      "lap_time": 81.18396554100366,
+      "cumulative_time": 465.94685644757993,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 12.0,
+      "lap_time": 78.94372310914329,
+      "cumulative_time": 464.89374290932074,
+      "status": "Running"
+    },
+    {
+      "lap": 6,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 10.0,
+      "lap_time": 75.02385312626457,
+      "cumulative_time": 460.40944789510604,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 3.0,
+      "lap_time": 77.89985993795474,
+      "cumulative_time": 538.1721680668454,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 1.0,
+      "lap_time": 81.26300503975673,
+      "cumulative_time": 539.8839195883626,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 17.0,
+      "lap_time": 74.27553368052811,
+      "cumulative_time": 539.3705798538975,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 19.0,
+      "lap_time": 72.83667947106987,
+      "cumulative_time": 538.3475986507009,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 13.0,
+      "lap_time": 75.57910570264873,
+      "cumulative_time": 539.6584231097232,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 9.0,
+      "lap_time": 77.22384839725649,
+      "cumulative_time": 539.7248023565177,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 21.0,
+      "lap_time": 73.50791121829143,
+      "cumulative_time": 540.349469259183,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 12.0,
+      "lap_time": 75.90992641056785,
+      "cumulative_time": 539.4587029775608,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 7.0,
+      "lap_time": 78.4358639784728,
+      "cumulative_time": 540.2413266850601,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 15.0,
+      "lap_time": 75.68650169255424,
+      "cumulative_time": 540.4753358471877,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 18.0,
+      "lap_time": 73.63176496747623,
+      "cumulative_time": 538.8285273415191,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 2.0,
+      "lap_time": 81.26609611748248,
+      "cumulative_time": 541.2053921744326,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 14.0,
+      "lap_time": 72.44779545985526,
+      "cumulative_time": 536.8770211834554,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 11.0,
+      "lap_time": 74.6865508517182,
+      "cumulative_time": 538.046661411919,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 6.0,
+      "lap_time": 81.83998090794344,
+      "cumulative_time": 543.5216090282412,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 8.0,
+      "lap_time": 77.4454907419398,
+      "cumulative_time": 539.5107560996114,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 10.0,
+      "lap_time": 79.01866279219561,
+      "cumulative_time": 542.0058782255425,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 5.0,
+      "lap_time": 82.66012144793633,
+      "cumulative_time": 543.9289979662273,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 20.0,
+      "lap_time": 75.81670382063882,
+      "cumulative_time": 541.7635602682187,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 16.0,
+      "lap_time": 74.8487372914,
+      "cumulative_time": 539.7424802007207,
+      "status": "Running"
+    },
+    {
+      "lap": 7,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 4.0,
+      "lap_time": 77.10290529925076,
+      "cumulative_time": 537.5123531943568,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 4.0,
+      "lap_time": 75.09783816223026,
+      "cumulative_time": 613.2700062290756,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 13.0,
+      "lap_time": 77.294449603237,
+      "cumulative_time": 617.1783691915996,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 7.0,
+      "lap_time": 80.08899420065003,
+      "cumulative_time": 619.4595740545476,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 5.0,
+      "lap_time": 82.08008027011225,
+      "cumulative_time": 620.4276789208132,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 10.0,
+      "lap_time": 73.9989611435562,
+      "cumulative_time": 613.6573842532795,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 11.0,
+      "lap_time": 77.01336267405102,
+      "cumulative_time": 616.7381650305687,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 15.0,
+      "lap_time": 77.876457677836,
+      "cumulative_time": 618.225926937019,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 8.0,
+      "lap_time": 74.91364134316571,
+      "cumulative_time": 614.3723443207266,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 14.0,
+      "lap_time": 76.38710869247154,
+      "cumulative_time": 616.6284353775317,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 16.0,
+      "lap_time": 71.91890717893504,
+      "cumulative_time": 612.3942430261227,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 6.0,
+      "lap_time": 79.90303121933981,
+      "cumulative_time": 618.731558560859,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 17.0,
+      "lap_time": 72.47866130830222,
+      "cumulative_time": 613.6840534827348,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 1.0,
+      "lap_time": 83.41584135679575,
+      "cumulative_time": 620.2928625402512,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 3.0,
+      "lap_time": 82.96053268268419,
+      "cumulative_time": 621.0071940946032,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 20.0,
+      "lap_time": 73.10044019676947,
+      "cumulative_time": 616.6220492250106,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 9.0,
+      "lap_time": 78.93414702455016,
+      "cumulative_time": 618.4449031241616,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 19.0,
+      "lap_time": 71.60212709281096,
+      "cumulative_time": 613.6080053183534,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 21.0,
+      "lap_time": 73.05535776047869,
+      "cumulative_time": 616.984355726706,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 18.0,
+      "lap_time": 73.60591440792942,
+      "cumulative_time": 615.3694746761481,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 12.0,
+      "lap_time": 80.17634082185857,
+      "cumulative_time": 619.9188210225793,
+      "status": "Running"
+    },
+    {
+      "lap": 8,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 2.0,
+      "lap_time": 82.33606236050687,
+      "cumulative_time": 619.8484155548637,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 2.0,
+      "lap_time": 74.91652406880259,
+      "cumulative_time": 688.1865302978782,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 12.0,
+      "lap_time": 74.8503236993173,
+      "cumulative_time": 692.0286928909169,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 16.0,
+      "lap_time": 71.4390869596912,
+      "cumulative_time": 690.8986610142388,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 20.0,
+      "lap_time": 71.17653690797862,
+      "cumulative_time": 691.6042158287918,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 4.0,
+      "lap_time": 81.14449063536348,
+      "cumulative_time": 694.8018748886429,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 10.0,
+      "lap_time": 78.32925444747194,
+      "cumulative_time": 695.0674194780406,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 13.0,
+      "lap_time": 74.28964332055911,
+      "cumulative_time": 692.5155702575781,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 6.0,
+      "lap_time": 74.46852810415216,
+      "cumulative_time": 688.8408724248787,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 9.0,
+      "lap_time": 76.39443879589795,
+      "cumulative_time": 693.0228741734296,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 1.0,
+      "lap_time": 78.68791392112821,
+      "cumulative_time": 691.082156947251,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 15.0,
+      "lap_time": 73.43334059234714,
+      "cumulative_time": 692.1648991532061,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 5.0,
+      "lap_time": 82.0807140449743,
+      "cumulative_time": 695.7647675277092,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 19.0,
+      "lap_time": 71.78889942694241,
+      "cumulative_time": 692.0817619671936,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 21.0,
+      "lap_time": 73.11936521454501,
+      "cumulative_time": 694.1265593091482,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 8.0,
+      "lap_time": 76.14860638259303,
+      "cumulative_time": 692.7706556076037,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 14.0,
+      "lap_time": 77.59329731282766,
+      "cumulative_time": 696.0382004369892,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 3.0,
+      "lap_time": 79.74786744561331,
+      "cumulative_time": 693.3558727639668,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 11.0,
+      "lap_time": 75.13407224887547,
+      "cumulative_time": 692.1184279755814,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 7.0,
+      "lap_time": 77.95938508861202,
+      "cumulative_time": 693.3288597647602,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 18.0,
+      "lap_time": 73.43384817804821,
+      "cumulative_time": 693.3526692006276,
+      "status": "Running"
+    },
+    {
+      "lap": 9,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 17.0,
+      "lap_time": 75.23254950983865,
+      "cumulative_time": 695.0809650647024,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 1.0,
+      "lap_time": 80.42603907695744,
+      "cumulative_time": 768.6125693748356,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 6.0,
+      "lap_time": 79.52521747256816,
+      "cumulative_time": 771.5539103634851,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 3.0,
+      "lap_time": 81.71802042235986,
+      "cumulative_time": 772.6166814365986,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 5.0,
+      "lap_time": 80.04484151934288,
+      "cumulative_time": 771.6490573481346,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 17.0,
+      "lap_time": 72.565138089293,
+      "cumulative_time": 767.3670129779359,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 18.0,
+      "lap_time": 70.10032523976638,
+      "cumulative_time": 765.167744717807,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 10.0,
+      "lap_time": 76.40021515912528,
+      "cumulative_time": 768.9157854167034,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 2.0,
+      "lap_time": 75.57337169485955,
+      "cumulative_time": 764.4142441197383,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 12.0,
+      "lap_time": 72.53142974708183,
+      "cumulative_time": 765.5543039205114,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 4.0,
+      "lap_time": 76.96367949226078,
+      "cumulative_time": 768.0458364395117,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 9.0,
+      "lap_time": 80.01364223991193,
+      "cumulative_time": 772.178541393118,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 20.0,
+      "lap_time": 72.67597006439962,
+      "cumulative_time": 768.4407375921088,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 7.0,
+      "lap_time": 79.00168937997026,
+      "cumulative_time": 771.0834513471639,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 16.0,
+      "lap_time": 75.81460566136472,
+      "cumulative_time": 769.9411649705129,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 11.0,
+      "lap_time": 74.5884837504121,
+      "cumulative_time": 767.3591393580158,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 21.0,
+      "lap_time": 71.37009134208908,
+      "cumulative_time": 767.4082917790782,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 15.0,
+      "lap_time": 77.75926282058435,
+      "cumulative_time": 771.1151355845511,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 8.0,
+      "lap_time": 80.98689458995536,
+      "cumulative_time": 773.1053225655368,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 13.0,
+      "lap_time": 72.92911203917244,
+      "cumulative_time": 766.2579718039326,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 14.0,
+      "lap_time": 76.41411770098934,
+      "cumulative_time": 769.7667869016169,
+      "status": "Running"
+    },
+    {
+      "lap": 10,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 19.0,
+      "lap_time": 74.45248196457933,
+      "cumulative_time": 769.5334470292817,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 10.0,
+      "lap_time": 74.35703685126151,
+      "cumulative_time": 842.9696062260971,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 17.0,
+      "lap_time": 70.4298093805167,
+      "cumulative_time": 841.9837197440017,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 20.0,
+      "lap_time": 70.83191052238486,
+      "cumulative_time": 843.4485919589835,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 18.0,
+      "lap_time": 71.95251825362418,
+      "cumulative_time": 843.6015756017588,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 6.0,
+      "lap_time": 79.7398102377345,
+      "cumulative_time": 847.1068232156704,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 2.0,
+      "lap_time": 77.28771678698182,
+      "cumulative_time": 842.4554615047888,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 11.0,
+      "lap_time": 77.69963421772488,
+      "cumulative_time": 846.6154196344283,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 1.0,
+      "lap_time": 76.8711045621714,
+      "cumulative_time": 841.2853486819097,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 3.0,
+      "lap_time": 77.19891954432589,
+      "cumulative_time": 842.7532234648373,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 8.0,
+      "lap_time": 76.15070597621937,
+      "cumulative_time": 844.1965424157311,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 19.0,
+      "lap_time": 72.36667525464172,
+      "cumulative_time": 844.5452166477597,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 9.0,
+      "lap_time": 78.8045121163144,
+      "cumulative_time": 847.2452497084232,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 15.0,
+      "lap_time": 73.1344051600389,
+      "cumulative_time": 844.2178565072028,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 14.0,
+      "lap_time": 74.58843397039752,
+      "cumulative_time": 844.5295989409104,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 5.0,
+      "lap_time": 78.91834677357872,
+      "cumulative_time": 846.2774861315945,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 7.0,
+      "lap_time": 79.02148306871277,
+      "cumulative_time": 846.429774847791,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 16.0,
+      "lap_time": 76.39029099527583,
+      "cumulative_time": 847.5054265798269,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 21.0,
+      "lap_time": 71.03430522942683,
+      "cumulative_time": 844.1396277949636,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 4.0,
+      "lap_time": 79.62273102838947,
+      "cumulative_time": 845.8807028323221,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 13.0,
+      "lap_time": 78.88122744829833,
+      "cumulative_time": 848.6480143499152,
+      "status": "Running"
+    },
+    {
+      "lap": 11,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 12.0,
+      "lap_time": 76.27044439948762,
+      "cumulative_time": 845.8038914287692,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 5.0,
+      "lap_time": 77.87892776021967,
+      "cumulative_time": 920.8485339863167,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 2.0,
+      "lap_time": 79.83414423863444,
+      "cumulative_time": 921.8178639826361,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 6.0,
+      "lap_time": 77.1465123507275,
+      "cumulative_time": 920.5951043097109,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 7.0,
+      "lap_time": 80.44284178959259,
+      "cumulative_time": 924.0444173913513,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 18.0,
+      "lap_time": 74.53121121283574,
+      "cumulative_time": 921.6380344285061,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 3.0,
+      "lap_time": 76.69503582632855,
+      "cumulative_time": 919.1504973311173,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 17.0,
+      "lap_time": 71.51462444834715,
+      "cumulative_time": 918.1300440827755,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 1.0,
+      "lap_time": 78.797362852903,
+      "cumulative_time": 920.0827115348127,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 4.0,
+      "lap_time": 76.09125768348741,
+      "cumulative_time": 918.8444811483248,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 9.0,
+      "lap_time": 76.35059133592848,
+      "cumulative_time": 920.5471337516595,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 12.0,
+      "lap_time": 76.46421419436999,
+      "cumulative_time": 921.0094308421297,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 19.0,
+      "lap_time": 71.08511895928544,
+      "cumulative_time": 918.3303686677086,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 10.0,
+      "lap_time": 75.73642876505966,
+      "cumulative_time": 919.9542852722625,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 11.0,
+      "lap_time": 77.07566411736788,
+      "cumulative_time": 921.6052630582783,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 15.0,
+      "lap_time": 73.69147667749716,
+      "cumulative_time": 919.9689628090916,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 16.0,
+      "lap_time": 74.57164088673973,
+      "cumulative_time": 921.0014157345307,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 20.0,
+      "lap_time": 74.77778541700033,
+      "cumulative_time": 922.2832119968273,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 8.0,
+      "lap_time": 80.08263660433136,
+      "cumulative_time": 924.222264399295,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 14.0,
+      "lap_time": 71.98384132860579,
+      "cumulative_time": 917.8645441609278,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 21.0,
+      "lap_time": 72.40895502381738,
+      "cumulative_time": 921.0569693737326,
+      "status": "Running"
+    },
+    {
+      "lap": 12,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 13.0,
+      "lap_time": 72.6211780032874,
+      "cumulative_time": 918.4250694320566,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 12.0,
+      "lap_time": 72.89126280089616,
+      "cumulative_time": 993.7397967872129,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 18.0,
+      "lap_time": 72.40497956086435,
+      "cumulative_time": 994.2228435435005,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 11.0,
+      "lap_time": 75.26815347961109,
+      "cumulative_time": 995.863257789322,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 20.0,
+      "lap_time": 71.46389341983061,
+      "cumulative_time": 995.5083108111819,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 17.0,
+      "lap_time": 72.05141090381477,
+      "cumulative_time": 993.6894453323209,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 6.0,
+      "lap_time": 78.59992164610277,
+      "cumulative_time": 997.7504189772201,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 2.0,
+      "lap_time": 76.36434685285818,
+      "cumulative_time": 994.4943909356336,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 9.0,
+      "lap_time": 76.7147235555202,
+      "cumulative_time": 996.7974350903329,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 5.0,
+      "lap_time": 76.36554056694258,
+      "cumulative_time": 995.2100217152674,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 10.0,
+      "lap_time": 73.88142404563266,
+      "cumulative_time": 994.4285577972922,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 14.0,
+      "lap_time": 74.40341704063738,
+      "cumulative_time": 995.4128478827671,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 3.0,
+      "lap_time": 80.80158477514736,
+      "cumulative_time": 999.131953442856,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 7.0,
+      "lap_time": 74.4816146961425,
+      "cumulative_time": 994.435899968405,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 16.0,
+      "lap_time": 72.74274035477099,
+      "cumulative_time": 994.3480034130492,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 8.0,
+      "lap_time": 78.42363096579653,
+      "cumulative_time": 998.3925937748882,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 13.0,
+      "lap_time": 74.50026009715025,
+      "cumulative_time": 995.5016758316809,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 19.0,
+      "lap_time": 72.39210410655822,
+      "cumulative_time": 994.6753161033855,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 21.0,
+      "lap_time": 74.3824937076936,
+      "cumulative_time": 998.6047581069886,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 1.0,
+      "lap_time": 79.17192952027338,
+      "cumulative_time": 997.0364736812012,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 15.0,
+      "lap_time": 77.11775157242171,
+      "cumulative_time": 998.1747209461544,
+      "status": "Running"
+    },
+    {
+      "lap": 13,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 4.0,
+      "lap_time": 81.14667423152582,
+      "cumulative_time": 999.5717436635824,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 2.0,
+      "lap_time": 76.53492464010343,
+      "cumulative_time": 1070.2747214273163,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 3.0,
+      "lap_time": 76.86744023590516,
+      "cumulative_time": 1071.0902837794056,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 13.0,
+      "lap_time": 72.70365026413539,
+      "cumulative_time": 1068.5669080534574,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 12.0,
+      "lap_time": 73.38906474881523,
+      "cumulative_time": 1068.897375559997,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 1.0,
+      "lap_time": 79.62661096909373,
+      "cumulative_time": 1073.3160563014146,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 16.0,
+      "lap_time": 73.06649046893308,
+      "cumulative_time": 1070.8169094461532,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 7.0,
+      "lap_time": 75.91478069973293,
+      "cumulative_time": 1070.4091716353666,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 14.0,
+      "lap_time": 71.25835584849966,
+      "cumulative_time": 1068.0557909388326,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 9.0,
+      "lap_time": 75.92679648817457,
+      "cumulative_time": 1071.136818203442,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 5.0,
+      "lap_time": 73.49574059107599,
+      "cumulative_time": 1067.9242983883682,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 10.0,
+      "lap_time": 78.66449485172558,
+      "cumulative_time": 1074.0773427344927,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 20.0,
+      "lap_time": 74.16421899740918,
+      "cumulative_time": 1073.296172440265,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 6.0,
+      "lap_time": 77.52597274858329,
+      "cumulative_time": 1071.9618727169882,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 4.0,
+      "lap_time": 75.93711727712487,
+      "cumulative_time": 1070.2851206901742,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 18.0,
+      "lap_time": 73.9967521970574,
+      "cumulative_time": 1072.3893459719457,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 11.0,
+      "lap_time": 74.00996652260983,
+      "cumulative_time": 1069.5116423542909,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 8.0,
+      "lap_time": 77.37830666053635,
+      "cumulative_time": 1072.0536227639218,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 19.0,
+      "lap_time": 71.78893479468093,
+      "cumulative_time": 1070.3936929016695,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 15.0,
+      "lap_time": 74.58399731110305,
+      "cumulative_time": 1071.6204709923043,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 17.0,
+      "lap_time": 72.65810878958375,
+      "cumulative_time": 1070.8328297357382,
+      "status": "Running"
+    },
+    {
+      "lap": 14,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 21.0,
+      "lap_time": 71.66627259357568,
+      "cumulative_time": 1071.238016257158,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 6.0,
+      "lap_time": 77.34750005909004,
+      "cumulative_time": 1147.6222214864063,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 12.0,
+      "lap_time": 71.9601184059275,
+      "cumulative_time": 1143.050402185333,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 3.0,
+      "lap_time": 77.67590569930886,
+      "cumulative_time": 1146.2428137527663,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 4.0,
+      "lap_time": 78.1252095650762,
+      "cumulative_time": 1147.0225851250732,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 20.0,
+      "lap_time": 70.5091641442328,
+      "cumulative_time": 1143.8252204456473,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 10.0,
+      "lap_time": 75.8277676882657,
+      "cumulative_time": 1146.644677134419,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 9.0,
+      "lap_time": 73.57486844445943,
+      "cumulative_time": 1143.9840400798262,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 2.0,
+      "lap_time": 75.97559007259677,
+      "cumulative_time": 1144.0313810114294,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 13.0,
+      "lap_time": 76.29353502509889,
+      "cumulative_time": 1147.430353228541,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 1.0,
+      "lap_time": 76.1608923913534,
+      "cumulative_time": 1144.0851907797216,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 21.0,
+      "lap_time": 69.42128841237539,
+      "cumulative_time": 1143.498631146868,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 19.0,
+      "lap_time": 69.89825897418056,
+      "cumulative_time": 1143.1944314144457,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 16.0,
+      "lap_time": 72.08192586751333,
+      "cumulative_time": 1144.0437985845015,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 7.0,
+      "lap_time": 76.83922002943662,
+      "cumulative_time": 1147.1243407196107,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 18.0,
+      "lap_time": 72.3963644721326,
+      "cumulative_time": 1144.7857104440782,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 5.0,
+      "lap_time": 79.67465705855211,
+      "cumulative_time": 1149.186299412843,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 17.0,
+      "lap_time": 71.54912779601749,
+      "cumulative_time": 1143.6027505599393,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 8.0,
+      "lap_time": 80.04861423216396,
+      "cumulative_time": 1150.4423071338335,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 15.0,
+      "lap_time": 73.06376343002344,
+      "cumulative_time": 1144.6842344223278,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 11.0,
+      "lap_time": 74.99637676947586,
+      "cumulative_time": 1145.829206505214,
+      "status": "Running"
+    },
+    {
+      "lap": 15,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 14.0,
+      "lap_time": 72.87846282202294,
+      "cumulative_time": 1144.116479079181,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 19.0,
+      "lap_time": 72.59308044431289,
+      "cumulative_time": 1220.215301930719,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 1.0,
+      "lap_time": 78.62976724577776,
+      "cumulative_time": 1221.6801694311107,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 14.0,
+      "lap_time": 72.49980593507108,
+      "cumulative_time": 1218.7426196878373,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 16.0,
+      "lap_time": 73.42847981824806,
+      "cumulative_time": 1220.4510649433212,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 5.0,
+      "lap_time": 75.27369469082096,
+      "cumulative_time": 1219.0989151364683,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 15.0,
+      "lap_time": 75.00957288647913,
+      "cumulative_time": 1221.6542500208982,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 6.0,
+      "lap_time": 74.45738007761656,
+      "cumulative_time": 1218.4414201574427,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 7.0,
+      "lap_time": 72.25379581309326,
+      "cumulative_time": 1216.2851768245228,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 18.0,
+      "lap_time": 71.60771181587732,
+      "cumulative_time": 1219.0380650444183,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 9.0,
+      "lap_time": 72.57657374898233,
+      "cumulative_time": 1216.661764528704,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 3.0,
+      "lap_time": 79.009799326493,
+      "cumulative_time": 1222.5084304733612,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 2.0,
+      "lap_time": 77.24858213010471,
+      "cumulative_time": 1220.4430135445505,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 8.0,
+      "lap_time": 74.5041944293279,
+      "cumulative_time": 1218.5479930138295,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 17.0,
+      "lap_time": 74.4986440850164,
+      "cumulative_time": 1221.622984804627,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 12.0,
+      "lap_time": 75.45061020282155,
+      "cumulative_time": 1220.2363206468997,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 20.0,
+      "lap_time": 73.44022091712334,
+      "cumulative_time": 1222.6265203299663,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 4.0,
+      "lap_time": 76.53981778453299,
+      "cumulative_time": 1220.1425683444722,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 21.0,
+      "lap_time": 69.96116769072194,
+      "cumulative_time": 1220.4034748245554,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 11.0,
+      "lap_time": 72.21948584247347,
+      "cumulative_time": 1216.9037202648012,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 13.0,
+      "lap_time": 72.34455084274212,
+      "cumulative_time": 1218.173757347956,
+      "status": "Running"
+    },
+    {
+      "lap": 16,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 10.0,
+      "lap_time": 75.88625947187924,
+      "cumulative_time": 1220.0027385510602,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 12.0,
+      "lap_time": 72.01775520283144,
+      "cumulative_time": 1292.2330571335506,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 19.0,
+      "lap_time": 72.35846318988628,
+      "cumulative_time": 1294.038632620997,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 7.0,
+      "lap_time": 73.61134345903218,
+      "cumulative_time": 1292.3539631468695,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 16.0,
+      "lap_time": 70.1762758851228,
+      "cumulative_time": 1290.627340828444,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 9.0,
+      "lap_time": 74.62697357799657,
+      "cumulative_time": 1293.7258887144649,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 18.0,
+      "lap_time": 71.48993769941791,
+      "cumulative_time": 1293.144187720316,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 5.0,
+      "lap_time": 77.13194798960993,
+      "cumulative_time": 1295.5733681470526,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 1.0,
+      "lap_time": 78.81107556997173,
+      "cumulative_time": 1295.0962523944945,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 8.0,
+      "lap_time": 75.47442760660218,
+      "cumulative_time": 1294.5124926510205,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 2.0,
+      "lap_time": 77.63666394746629,
+      "cumulative_time": 1294.2984284761703,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 20.0,
+      "lap_time": 71.61544845723982,
+      "cumulative_time": 1294.123878930601,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 15.0,
+      "lap_time": 75.27883357779785,
+      "cumulative_time": 1295.7218471223482,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 6.0,
+      "lap_time": 77.26839690952806,
+      "cumulative_time": 1295.8163899233575,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 17.0,
+      "lap_time": 72.43255943246882,
+      "cumulative_time": 1294.055544237096,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 13.0,
+      "lap_time": 75.02580934750388,
+      "cumulative_time": 1295.2621299944035,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 21.0,
+      "lap_time": 71.19927568803601,
+      "cumulative_time": 1293.8257960180024,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 11.0,
+      "lap_time": 72.182450582981,
+      "cumulative_time": 1292.3250189274531,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 14.0,
+      "lap_time": 75.59124397669346,
+      "cumulative_time": 1295.9947188012488,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 3.0,
+      "lap_time": 79.6752204589131,
+      "cumulative_time": 1296.5789407237144,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 4.0,
+      "lap_time": 80.83851098221925,
+      "cumulative_time": 1299.0122683301754,
+      "status": "Running"
+    },
+    {
+      "lap": 17,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 10.0,
+      "lap_time": 75.33270137613239,
+      "cumulative_time": 1295.3354399271927,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 2.0,
+      "lap_time": 74.27583544597559,
+      "cumulative_time": 1366.5088925795262,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 8.0,
+      "lap_time": 73.19829514279907,
+      "cumulative_time": 1367.236927763796,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 4.0,
+      "lap_time": 77.58291057698995,
+      "cumulative_time": 1369.9368737238594,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 1.0,
+      "lap_time": 81.00961483441118,
+      "cumulative_time": 1371.6369556628551,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 6.0,
+      "lap_time": 76.56645051957467,
+      "cumulative_time": 1370.2923392340394,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 5.0,
+      "lap_time": 78.24801499600665,
+      "cumulative_time": 1371.3922027163226,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 16.0,
+      "lap_time": 70.0057351606694,
+      "cumulative_time": 1365.579103307722,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 13.0,
+      "lap_time": 74.3341673181565,
+      "cumulative_time": 1369.430419712651,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 12.0,
+      "lap_time": 72.14544777952456,
+      "cumulative_time": 1366.657940430545,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 11.0,
+      "lap_time": 73.88707079066569,
+      "cumulative_time": 1368.185499266836,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 10.0,
+      "lap_time": 72.7516635774059,
+      "cumulative_time": 1366.875542508007,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 17.0,
+      "lap_time": 72.70796957038264,
+      "cumulative_time": 1368.4298166927308,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 18.0,
+      "lap_time": 72.5215839651735,
+      "cumulative_time": 1368.337973888531,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 9.0,
+      "lap_time": 73.38717091307429,
+      "cumulative_time": 1367.4427151501702,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 14.0,
+      "lap_time": 72.14172901781704,
+      "cumulative_time": 1367.4038590122204,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 7.0,
+      "lap_time": 77.80438887728249,
+      "cumulative_time": 1371.6301848952849,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 3.0,
+      "lap_time": 76.74595878435049,
+      "cumulative_time": 1369.0709777118036,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 19.0,
+      "lap_time": 71.88293322030499,
+      "cumulative_time": 1367.8776520215538,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 20.0,
+      "lap_time": 69.3273277628474,
+      "cumulative_time": 1365.9062684865617,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 21.0,
+      "lap_time": 68.91671532614187,
+      "cumulative_time": 1367.9289836563173,
+      "status": "Running"
+    },
+    {
+      "lap": 18,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 15.0,
+      "lap_time": 70.88016516054614,
+      "cumulative_time": 1366.2156050877388,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 4.0,
+      "lap_time": 75.67646800250549,
+      "cumulative_time": 1442.1853605820318,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 7.0,
+      "lap_time": 75.79772448462099,
+      "cumulative_time": 1443.0346522484172,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 17.0,
+      "lap_time": 69.59834642540845,
+      "cumulative_time": 1439.5352201492678,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 21.0,
+      "lap_time": 70.81177387540552,
+      "cumulative_time": 1442.4487295382607,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 18.0,
+      "lap_time": 73.29720404586764,
+      "cumulative_time": 1443.589543279907,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 19.0,
+      "lap_time": 69.92685173775833,
+      "cumulative_time": 1441.319054454081,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 1.0,
+      "lap_time": 75.65175120381635,
+      "cumulative_time": 1441.2308545115384,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 16.0,
+      "lap_time": 68.30190105267306,
+      "cumulative_time": 1437.732320765324,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 5.0,
+      "lap_time": 75.45913436078169,
+      "cumulative_time": 1442.1170747913268,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 12.0,
+      "lap_time": 70.35123943669332,
+      "cumulative_time": 1438.5367387035292,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 6.0,
+      "lap_time": 76.01961156680943,
+      "cumulative_time": 1442.8951540748162,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 14.0,
+      "lap_time": 72.23260515445253,
+      "cumulative_time": 1440.6624218471834,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 13.0,
+      "lap_time": 72.83720482663288,
+      "cumulative_time": 1441.1751787151638,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 9.0,
+      "lap_time": 77.42769390221079,
+      "cumulative_time": 1444.870409052381,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 8.0,
+      "lap_time": 76.83078796367346,
+      "cumulative_time": 1444.2346469758938,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 20.0,
+      "lap_time": 72.70474577014336,
+      "cumulative_time": 1444.3349306654281,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 15.0,
+      "lap_time": 73.55800556554208,
+      "cumulative_time": 1442.6289832773457,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 10.0,
+      "lap_time": 77.38974944604324,
+      "cumulative_time": 1445.267401467597,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 2.0,
+      "lap_time": 76.92555119429325,
+      "cumulative_time": 1442.831819680855,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 11.0,
+      "lap_time": 74.08397207077296,
+      "cumulative_time": 1442.0129557270902,
+      "status": "Running"
+    },
+    {
+      "lap": 19,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 3.0,
+      "lap_time": 77.6787001084704,
+      "cumulative_time": 1443.8943051962092,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Marc Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 10.0,
+      "lap_time": 70.31536806934783,
+      "cumulative_time": 1512.5007286513796,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Enea Bastianini",
+      "team": "Ducati Lenovo Team",
+      "position": 15.0,
+      "lap_time": 72.2079924974971,
+      "cumulative_time": 1515.2426447459143,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Maverick Vinales",
+      "team": "Aprilia Racing",
+      "position": 3.0,
+      "lap_time": 76.34700323859973,
+      "cumulative_time": 1515.8822233878675,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Jack Miller",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 11.0,
+      "lap_time": 73.03686061323685,
+      "cumulative_time": 1515.4855901514975,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Fabio Quartararo",
+      "team": "Monster Energy Yamaha",
+      "position": 16.0,
+      "lap_time": 72.16101662156115,
+      "cumulative_time": 1515.7505599014683,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Pedro Acosta",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 7.0,
+      "lap_time": 74.12576150462533,
+      "cumulative_time": 1515.4448159587064,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Franco Morbidelli",
+      "team": "Prima Pramac Racing",
+      "position": 6.0,
+      "lap_time": 76.14242053231463,
+      "cumulative_time": 1517.373275043853,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Jorge Martin",
+      "team": "Prima Pramac Racing",
+      "position": 1.0,
+      "lap_time": 77.49815640093158,
+      "cumulative_time": 1515.2304771662555,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Brad Binder",
+      "team": "Red Bull KTM Factory Racing",
+      "position": 9.0,
+      "lap_time": 72.9935884214429,
+      "cumulative_time": 1515.1106632127696,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Francesco Bagnaia",
+      "team": "Ducati Lenovo Team",
+      "position": 2.0,
+      "lap_time": 75.4620221776478,
+      "cumulative_time": 1513.998760881177,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Augusto Fernandez",
+      "team": "Red Bull GASGAS Tech3",
+      "position": 14.0,
+      "lap_time": 73.3131876922442,
+      "cumulative_time": 1516.2083417670603,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Alex Rins",
+      "team": "Monster Energy Yamaha",
+      "position": 4.0,
+      "lap_time": 79.67580832171939,
+      "cumulative_time": 1520.3382301689028,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Marco Bezzecchi",
+      "team": "VR46 Racing Team",
+      "position": 5.0,
+      "lap_time": 72.94102907705987,
+      "cumulative_time": 1514.1162077922238,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Johann Zarco",
+      "team": "LCR Honda",
+      "position": 20.0,
+      "lap_time": 73.12240630606134,
+      "cumulative_time": 1517.9928153584424,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Raul Fernandez",
+      "team": "Trackhouse Racing",
+      "position": 18.0,
+      "lap_time": 71.4406463472382,
+      "cumulative_time": 1515.675293323132,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Aleix Espargaro",
+      "team": "Aprilia Racing",
+      "position": 19.0,
+      "lap_time": 72.10402175996231,
+      "cumulative_time": 1516.4389524253904,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Alex Marquez",
+      "team": "Gresini Racing MotoGP",
+      "position": 12.0,
+      "lap_time": 75.01335563270784,
+      "cumulative_time": 1517.6423389100535,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Luca Marini",
+      "team": "Repsol Honda Team",
+      "position": 21.0,
+      "lap_time": 70.00764492224569,
+      "cumulative_time": 1515.2750463898426,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Fabio Di Giannantonio",
+      "team": "VR46 Racing Team",
+      "position": 13.0,
+      "lap_time": 71.49499498829346,
+      "cumulative_time": 1514.3268146691485,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Takaaki Nakagami",
+      "team": "LCR Honda",
+      "position": 8.0,
+      "lap_time": 76.67869847361064,
+      "cumulative_time": 1518.691654200701,
+      "status": "Running"
+    },
+    {
+      "lap": 20,
+      "name": "Miguel Oliveira",
+      "team": "Trackhouse Racing",
+      "position": 17.0,
+      "lap_time": 70.49808407430673,
+      "cumulative_time": 1514.3923892705159,
+      "status": "Running"
+    }
+  ]
+}
