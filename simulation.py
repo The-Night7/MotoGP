@@ -4,6 +4,7 @@ import pandas as pd
 from dataclasses import dataclass
 from typing import List, Tuple
 import random
+import os
 
 # Configuration des graphiques en français
 plt.rcParams['font.size'] = 10
@@ -580,10 +581,13 @@ for group_name, group_data in groups:
         for skill in skill_cols:
             print(f"  {skill.replace('_', ' '):<15}: {avg_skills[skill]:.3f}")
 
-# Sauvegarde des résultats détaillés
-pilot_df.to_csv('/home/user/motogp_simulation_results.csv', index=False)
-race_data.to_csv('/home/user/motogp_race_data.csv', index=False)
+# Création du dossier simulations s'il n'existe pas
+os.makedirs('simulations', exist_ok=True)
+
+# Sauvegarde des résultats détaillés dans le dossier simulations
+pilot_df.to_csv('simulations/motogp_simulation_results.csv', index=False)
+race_data.to_csv('simulations/motogp_race_data.csv', index=False)
 
 print(f"\n💾 Résultats sauvegardés:")
-print(f"  - Analyse pilotes: /home/user/motogp_simulation_results.csv")
-print(f"  - Données de course: /home/user/motogp_race_data.csv")
+print(f"  - Analyse pilotes: simulations/motogp_simulation_results.csv")
+print(f"  - Données de course: simulations/motogp_race_data.csv")
